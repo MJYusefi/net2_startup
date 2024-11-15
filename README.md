@@ -1,6 +1,8 @@
 # net2_startup
 A program which when windows boot connect to net2.sharif.ir automatically 
+
 NOTE : 
+
 1- You must connected to sharif-wifi before run the .BAT file
 
 2- it's not necessary to disable dns(DHCP)
